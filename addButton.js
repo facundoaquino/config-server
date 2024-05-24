@@ -12,7 +12,7 @@
     button.style.borderRadius = '5px';
     button.style.cursor = 'pointer';
     button.style.zIndex = '1000';
-
+    console.log('Agregadooo')
     // Añadir el evento de clic al botón
     button.onclick = function() {
         alert('Botón flotante clickeado!');
