@@ -1,8 +1,3 @@
-
-Para crear un botón que abra un rectángulo pequeño con un iframe en la esquina inferior derecha de la pantalla, puedes modificar tu código de la siguiente manera:
-
-javascript
-Copiar código
 (function() {
     // Crear el botón
     var button = document.createElement('button');
